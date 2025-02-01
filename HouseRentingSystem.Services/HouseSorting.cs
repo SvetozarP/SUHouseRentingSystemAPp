@@ -1,4 +1,4 @@
-﻿namespace HouseRentingSystem.Services
+﻿namespace HouseRentingSystem.Services 
 {
     public enum HouseSorting
     {
